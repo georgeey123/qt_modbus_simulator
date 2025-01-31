@@ -2,7 +2,7 @@
 A simple Qt-based GUI application that simulates reading a Modbus register and displaying its value in the interface.
 
 ## To get started with the Qt Modbus Simulator project, follow these steps:
-###Prerequisites
+### Prerequisites
 - Qt 6.8.2 or later (with Qt Creator)
 - CMake 3.10 or later
 - Git
